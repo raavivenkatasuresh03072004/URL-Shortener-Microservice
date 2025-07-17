@@ -18,7 +18,6 @@ A production-ready URL shortener microservice built using **Node.js**, **Express
 
 - Node.js
 - Express.js
-- MongoDB (Mongoose)
 - dotenv
 - uuid
 - nodemon
